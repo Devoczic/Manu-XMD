@@ -43,7 +43,7 @@ function convertToBool(text, fault = 'true') {
 }
 module.exports = {
 
-SESSION_ID: process.env.SESSION_ID === undefined ? 'Manu-MD&jtcwbzJi' : process.env.SESSION_ID, // put your session id || ඔයාගෙ සෙසන් එක දාන්න...😌❤
+SESSION_ID: process.env.SESSION_ID === undefined ? 'Manu-MD&IdwzQZTa#MX_MWU0V79C8_VGj4ZhFOCF5OY9EWaomy8-BAvKg4EQ' : process.env.SESSION_ID, // put your session id || ඔයාගෙ සෙසන් එක දාන්න...😌❤
 TYPE: process.env.TYPE === undefined ? 'button' : process.env.TYPE, // if you need buttons put 'button' if you need nonbutton ( number reply ) put 'nonbutton' || බටන් ඕනි නම් 'button' දාන්න number reply ඕනි නම් nonbutton දාන්න...😌❤
 PREFIX: process.env.PREFIX || '.' ,
 PORT: process.env.PORT === undefined ? "8000" : process.env.PORT,
